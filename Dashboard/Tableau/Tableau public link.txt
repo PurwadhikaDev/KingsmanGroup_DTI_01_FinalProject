@@ -1,4 +1,4 @@
 Link for tableau public:
 
-[Dashboard Tableau](https://public.tableau.com/app/profile/rangga.a7877/viz/BankMarketingDashboard_17244176668920/Dashboard5?publish=yes)  
+https://public.tableau.com/app/profile/rangga.a7877/viz/BankMarketingDashboard_17244176668920/Dashboard5?publish=yes  
 
