@@ -94,7 +94,7 @@ Kingsman Bank faces a critical need to increase customer deposits to stabilize i
 
 2. **Machine Learning Impact:**
    - The model being used is the LGBM model, which has been fine-tuned to optimize its predictive performance. LightGBM was selected because it outperformed other models in model benchmarking
-   - After training the LightGBM model, its performance is validated through A/B testing. The dataset is initially split, with 20% of the data being allocated to form the Control and Treatment groups. This split helps in establishing a baseline comparison for evaluating the impact of the model's predictions.
+   - After training the LightGBM model, its performance is validated through A/B testing. With ML inference, before anything else, before performing any machine learning inference, the dataset is carefully prepared and split. Specifically, 20% of the data is allocated to create the Control and Treatment groups
    - From the Treatment and Control groups, a random sample of 1000 customers is selected for testing
    - The **machine learning model** identified customers who are more likely to make deposits, resulting in a **Treatment Group** conversion rate of **20.10%** compared to the **Control Group** rate of **2.10%**.
    - The **conversion lift** is calculated as follows:
